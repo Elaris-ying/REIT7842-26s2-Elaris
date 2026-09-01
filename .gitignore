@@ -1,0 +1,77 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.unityproj
+*.sln
+# ==========================================
+# Unity generated folders
+# ==========================================
+
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+
+# ==========================================
+# Unity build output
+# ==========================================
+
+**/[Bb]uild/
+**/[Bb]uilds/
+
+# Windows standalone build files accidentally
+# created inside the repository
+**/D3D12/
+**/MonoBleedingEdge/
+**/*_Data/
+**/*_BurstDebugInformation_DoNotShip/
+**/UnityCrashHandler64.exe
+**/UnityPlayer.dll
+**/DirectML.dll
+**/*.exe
+
+# ==========================================
+# IDE and generated solution files
+# ==========================================
+
+.vs/
+.idea/
+.vscode/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==========================================
+# Operating system files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Crash reports and temporary files
+# ==========================================
+
+sysinfo.txt
+*.tmp
+*.bak
+*.swp
